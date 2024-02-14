@@ -1,8 +1,7 @@
-# Examples
 
 ## Introduction
 
-This directory contains example of how to use '~~~~' library.
+This directory contains example of how to use 'Spatially Informed TSP' library.
 
 Here is a list of features that are demonstrated in the examples:
 - Creating a map
