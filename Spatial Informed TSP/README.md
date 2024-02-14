@@ -10,9 +10,6 @@ To learn more, refer to the [documentation](https://github.com/whkim15/Geog510-w
 
 <img src="https://co-enzyme.fr/wp-content/uploads/2020/06/tsp.jpg" width="300" />
 
-![utk logo](https://brand.utk.edu/wp-content/uploads/2019/02/University-HorizLeftLogo-RGB.jpg)
-
-
 ## Make LP file for solving in the Cplex by using Python
 ```python
 #### First Step : Standard TSP
