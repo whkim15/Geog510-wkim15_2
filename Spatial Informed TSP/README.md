@@ -2,13 +2,16 @@
 ## Introduction
 This directory contains example of how to use 'Spatially Informed TSP' library.
 
+### What is TSP ?
+To learn more, refer to the information from Wikipedia [the Markdown cheat sheet](https://en.wikipedia.org/wiki/Travelling_salesman_problem).
+or refer to the [documentation](https://github.com/whkim15/Geog510-wkim15_2/pulls) 
+<img src="https://co-enzyme.fr/wp-content/uploads/2020/06/tsp.jpg" width="300" />
+
+### Contents
 Here is a list of features that are demonstrated in the examples:
 - Frist step : Standard TSP
 - Second step : Spatially Informed TSP(I will upload it soon)
 
-To learn more, refer to the [documentation](https://github.com/whkim15/Geog510-wkim15_2/pulls) and [the Markdown cheat sheet](https://github.com/whkim15/Geog510-wkim15_2/pulls).
-
-<img src="https://co-enzyme.fr/wp-content/uploads/2020/06/tsp.jpg" width="300" />
 
 ## Make LP file for solving in the Cplex by using Python
 ```python
