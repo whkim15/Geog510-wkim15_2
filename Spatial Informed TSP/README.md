@@ -1,7 +1,6 @@
 # Spatially Informed TSP
 ## Introduction
 This directory contains example of how to use 'Spatially Informed TSP' library.
-Alt-H2
 
 ### What is TSP ?
 To learn more, refer to the information from [Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem).
@@ -13,7 +12,6 @@ or refer to the [documentation](https://github.com/whkim15/Geog510-wkim15_2/pull
 Here is a list of features that are demonstrated in the examples:
 - Frist step : Standard TSP
 - Second step : Spatially Informed TSP(I will upload it soon)
-Alt-H1
 
 
 ## Make LP file for solving in the Cplex by using Python
@@ -127,7 +125,6 @@ print_variable_types_in_lp_format()
 
 
 ```
-Alt-H1
 
 
 ## Demos
