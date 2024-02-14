@@ -14,6 +14,7 @@ Here is a list of features that are demonstrated in the examples:
 - Second step : Spatially Informed TSP(I will upload it soon)
 
 
+
 ## Make LP file for solving in the Cplex by using Python
 ```python
 #### First Step : Standard TSP
@@ -125,6 +126,8 @@ print_variable_types_in_lp_format()
 
 
 ```
+
+
 
 ## Demos
 
