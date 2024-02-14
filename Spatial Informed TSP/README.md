@@ -1,7 +1,7 @@
 # Spatially Informed TSP
 ## Introduction
 This directory contains example of how to use 'Spatially Informed TSP' library.
-Alt-H1
+Alt-H2
 
 ### What is TSP ?
 To learn more, refer to the information from [Wikipedia](https://en.wikipedia.org/wiki/Travelling_salesman_problem).
